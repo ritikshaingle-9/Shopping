@@ -106,10 +106,10 @@
 }
 .cloth{
     width:900px;
-    background-color:#f2ccff;
+    background-color:#c2d6d6;
     padding:20px 0px 10px 20px;
     margin: 7px;
-    border:dotted #4d0066 3px;
+    border:dotted #006699 3px;
     border-radius: 40px;
 }
 .w-img{
@@ -135,5 +135,13 @@
     padding:20px 0px 10px 20px;
     margin: 7px;
     border:dotted #4d0066 3px;
+    border-radius: 40px;
+}
+.kitchen{
+    width:1200px;
+    background-color:#ffcc99;
+    padding:20px 0px 10px 20px;
+    margin: 7px;
+    border:dotted #b35900 3px;
     border-radius: 40px;
 }
