@@ -104,3 +104,28 @@
     border: #1f2e2e;
 
 }
+.cloth{
+    width:900px;
+    background-color:#ecb3ff;
+    padding:20px 0px 10px 20px;
+    margin: 7px;
+    border:dotted #4d0066 3px;
+    border-radius: 40px;
+}
+.w-img{
+    margin: 10px;
+}
+.btn-1{
+    width: 110px;
+    border: double #476b6b 2px;
+    font-size:15px;
+    background-color:#c2d6d6;
+    border-radius: 30px ;
+    margin: 0px 0px 0px 0px;
+    color:#1f2e2e;
+    padding: 8px;
+}
+.c-heading{
+    font-size: 20px;
+    font-style:bold;
+}
